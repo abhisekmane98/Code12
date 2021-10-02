@@ -1,0 +1,2 @@
+In C functions are only not possible to declare in struct
+so what you can check ? 
