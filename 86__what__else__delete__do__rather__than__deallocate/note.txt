@@ -1,0 +1,2 @@
+you can't use delete with normal memory 
+you should use only with heap memory

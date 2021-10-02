@@ -1,0 +1,18 @@
+12 hrs clock
+
+No 0
+only 1-12
+
+12.30 AM valid but
+0.30 AM is not valid
+
+12.30 PM valid but
+0.30 PM is not valid
+
+
+24 hrs clock
+
+there is 0
+
+0.30 
+12.30  
