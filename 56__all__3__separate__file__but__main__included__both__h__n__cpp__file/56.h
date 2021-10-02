@@ -1,0 +1,18 @@
+//#ifndef HEADER
+//#define HEADER
+
+#include<iostream>
+
+struct complex
+{
+	private:
+		int r,i;
+	public:
+		complex(int=0,int=0);
+		void display(void);
+		complex operator++();
+		complex operator++(int);
+};
+
+#endif
+
