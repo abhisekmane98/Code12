@@ -1,0 +1,4 @@
+obviously it will not happen as string s here s is name
+of string so you can't compare it with nullptr.
+
+char *s=nullptr; this does not mean s="" or empty string
